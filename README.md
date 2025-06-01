@@ -13,3 +13,8 @@ Saving some cool UI made with html and css
 |:-------------:|:-------------:|
 | ![Tubelight](Output_images/tubelight1.png) | ![glowing](Output_images/tubelight2.png) |
 |code: |[Tubelight.html](tubelight.html)|
+
+| "Text Blink" | "Blinking Animation"|
+|:-------------:|:-------------:|
+| ![text blink](Output_images/blink1.png) | ![glowing](Output_images/blink.gif) |
+|code: |[TextBlink.html](TextBlink.html)|
